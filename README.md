@@ -9,3 +9,4 @@ An open-world head-to-head tank fight with simple AI, terrain and advanced contr
 * BT05 Creating & Deleting Landscapes
 * BT06 Landscape Setup & Scaling
 * BT07 A Landscaping Process
+* BT08 Using Landscape Layers
