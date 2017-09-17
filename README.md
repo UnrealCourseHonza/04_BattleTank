@@ -21,3 +21,4 @@ An open-world head-to-head tank fight with simple AI, terrain and advanced contr
 * BT17 Controller Ready Navigation
 * BT18 Trial Packaging Your Game
 * BT19 Delegating to Components
+* BT20 Using virtual and override
