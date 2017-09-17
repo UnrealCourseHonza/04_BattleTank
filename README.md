@@ -23,3 +23,4 @@ An open-world head-to-head tank fight with simple AI, terrain and advanced contr
 * BT19 Delegating to Components
 * BT20 Using virtual and override
 * BT21 Creating an AI Controller Class
+* BT22 Get the Player Controller with C++
