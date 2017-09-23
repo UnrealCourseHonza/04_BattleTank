@@ -28,3 +28,4 @@ An open-world head-to-head tank fight with simple AI, terrain and advanced contr
 * BT24 Creating an Out Parameter Method
 * BT25 Finding Screen Pixel Coordinates
 * BT26 Using DeprojectScreenToWorld
+* BT27 Using LineTraceSingleByChannel()
