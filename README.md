@@ -42,3 +42,4 @@ An open-world head-to-head tank fight with simple AI, terrain and advanced contr
 * BT38 Using Clamp() to Limit Values
 * BT39 CHALLENGE - Turret Rotation
 * BT40 CHALLENGE - Turret Rotation Pt.2
+* BT41 Setting Up Projectiles
