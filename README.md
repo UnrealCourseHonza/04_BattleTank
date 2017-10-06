@@ -45,3 +45,4 @@ An open-world head-to-head tank fight with simple AI, terrain and advanced contr
 * BT41 Setting Up Projectiles
 * BT42 Working Round Awkward Bugs
 * BT43 Using SpawnActor<>() to Spawn
+* BT44 Projectile Movement Components
