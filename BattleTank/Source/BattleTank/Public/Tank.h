@@ -40,6 +40,10 @@ private:
 	// Local barrel reference for spawning projectile
 	UTankBarrel* Barrel = nullptr;
 
+	float ReloadTimeInSeconds = 3;
+
+	double LastFireTime = 0;
+
 public:
 	UFUNCTION(BlueprintCallable, Category = Setup)
 	void SetBarrelReference(UTankBarrel* BarrelToSet);
