@@ -50,3 +50,4 @@ An open-world head-to-head tank fight with simple AI, terrain and advanced contr
 * BT46 EditAnywhere vs EditDefaultsOnly
 * BT47 Adding a Quit Button
 * BT48 Setup Track Throttles
+* BT49 ApplyForceAtLocation() in Action
