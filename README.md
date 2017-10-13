@@ -51,3 +51,4 @@ An open-world head-to-head tank fight with simple AI, terrain and advanced contr
 * BT47 Adding a Quit Button
 * BT48 Setup Track Throttles
 * BT49 ApplyForceAtLocation() in Action
+* BT50 Physics Materials & Friction
