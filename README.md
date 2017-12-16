@@ -54,3 +54,4 @@ An open-world head-to-head tank fight with simple AI, terrain and advanced contr
 * BT50 Physics Materials & Friction
 * BT51 Fly-by-Wire Control System
 * BT52 Upgrade to 4.18
+* BT53 Using BlueprintReadOnly
